@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
-import React from "react";
->>>>>>> 6c2b7ebfc3baa00fd83d300cda7a4ec752a83619
-import logo from "./logo.svg";
+import { useEffect } from "react";
+
 import "./App.css";
 
 function App() {
